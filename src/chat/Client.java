@@ -15,6 +15,7 @@ public class Client {
 	 * 1. find the computer according to the ip-adress 2. find the application in
 	 * the server
 	 * 
+	 * dummy text
 	 */
 	public Client() throws Exception {
 		System.out.println("connecting to the server");
